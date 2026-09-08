@@ -3,7 +3,7 @@
 // ==========================================
 
 // GANTI dengan nomor WhatsApp Bakso Pak Bos
-const nomorWhatsApp = "6281234567890";
+const nomorWhatsApp = "6282269130789";
 
 
 // ==========================================
